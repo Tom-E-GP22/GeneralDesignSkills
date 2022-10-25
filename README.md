@@ -2,7 +2,7 @@
  
 # Cyberium
 
-<img src="https://media.discordapp.net/attachments/541901955774152715/1034435956255764510/Cyberium.png?width=878&height=585" alt="Cyberium" width=750>
+<img src="https://media.discordapp.net/attachments/1016974484021981207/1034453214138994738/Cyberium2SIDE.png?width=994&height=663" alt="Cyberium" width=750>
 
 ### <em>The Future is Now</em><br>
 Jump into the future in this Cyberpunk themed Emporium Sim.<br>
